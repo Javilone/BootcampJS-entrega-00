@@ -1,6 +1,6 @@
 # BootcampJS-entrega-00
-
 Entrega 0 del bootcamp JavaScript y TypeScript de Lemoncode.
+## Paso a paso
 
 ## 1. Crear un repositorio en local
 
