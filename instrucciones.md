@@ -1,2 +1,3 @@
-Este es el archivo que contendrá las instrucciones
+Las instrucciones están en el readme.md !!
+
 Ahora le he puesto algo más de texto
