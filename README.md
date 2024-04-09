@@ -1,5 +1,7 @@
 # BootcampJS-entrega-00
+
 Entrega 0 del bootcamp JavaScript y TypeScript de Lemoncode.
+
 ## Paso a paso
 
 ## 1. Crear un repositorio en local
@@ -71,3 +73,9 @@ Entrega 0 del bootcamp JavaScript y TypeScript de Lemoncode.
 
 - Haz un push de los cambios al repositorio en GitHub.
   > git push origin main
+
+## Adicional:
+
+Hice algún cambio al readme.md del "main" desde Github y lo actualicé en mi repositorio local con:
+
+> git pull origin main
